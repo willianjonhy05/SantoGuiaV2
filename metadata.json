@@ -1,0 +1,6 @@
+{
+  "name": "Santo Guia",
+  "description": "Sua paróquia digital em Teresina - Clero, igrejas, celebrações, liturgia diária e exame de consciência.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
